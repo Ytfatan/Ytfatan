@@ -28,7 +28,7 @@ body {
     height: 100%;
     width: 100%;
     place-items: center;
-    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url('./1.gif');
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url('./foto.jpg');
      background-size: cover
 }
 
